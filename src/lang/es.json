@@ -1,0 +1,27 @@
+{
+
+    "NavHeader.español": "Español",
+    "NavHeader.ingles": "Ingles",
+    "NavHeader.deseos": "LISTA DE DESEOS",
+    "NavHeader.micuenta": "MI CUENTA",
+    "NavHeader.ordenes": "MIS ÓRDENES",
+
+    "NavBody.carreta": "MI CARRETA: ",
+    "NavBody.buscar": "Buscar",
+    "NavBody.buscarP": "Write here what you want to look for",
+
+    "NavbarFooter.inicio": "INICIO",
+    "NavbarFooter.categorias": "CATEGORIAS",
+    "NavbarFooter.tiendas": "TIENDAS",
+    "NavbarFooter.historias": "HISTORIAS",
+
+    "BodyDiferenciadoresTitulo.entrega": "ENTREGA A DOMICILIO",
+    "BodyDiferenciadoresTitulo.electronico": "PAGO ELECTRONICO",
+    "BodyDiferenciadoresTitulo.nacionales": "PRODUCTOS NACIONALES",
+    "BodyDiferenciadoresTitulo.telefonico": "SOPORTE TELEFÓNICO",
+
+    "BodyDiferenciadoresTexto.entrega": "Entregamos sus compras hasta la puerta de su casa u oficina.",
+    "BodyDiferenciadoresTexto.electronico": "Podés pagar directamente con tu tarjeta de crédito o débito.",
+    "BodyDiferenciadoresTexto.nacionales": "Todos los productos en Mi Mercadito son hechos en Costa Rica",
+    "BodyDiferenciadoresTexto.telefonico": "Escribirnos al 6128-1490 y con gusto te atenderemos"
+}

@@ -1,0 +1,43 @@
+@media(min-width: 0PX) and(max-width: 992px) {
+
+    /* BodyCardStyle */
+    #p-title-products {
+        margin: auto 0px !important;
+        text-align: center !important   ;
+        justify-content: center !important;
+        display: flex !important;
+        align-items: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;  
+    }
+    
+}
+
+@media(min-width: 768PX) and(max-width: 992px) {
+
+    /* BodyCardStyle */
+    #p-title-products {
+        margin: auto 0px !important;
+        text-align: center;
+        justify-content: center !important;
+        display: flex !important;
+        align-items: center;
+    }
+}
+
+@media(min-width: 993px) and(max-width: 2000px) {
+
+    /* BodyCardStyle */
+    #p-title-products {
+        text-align: center;
+        justify-content: center !important;
+        display: flex !important;
+        align-items: center;
+    }
+    .ads_img1{
+        margin-bottom: 0px !important;
+    }
+    .ads_acce_mujer{
+        margin-bottom: 0px;
+    }
+}

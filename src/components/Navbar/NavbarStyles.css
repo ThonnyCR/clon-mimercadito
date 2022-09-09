@@ -1,0 +1,68 @@
+* {
+    font-family: Roboto !important;
+    /* color: #fff; */
+    font-size: 16px;
+}
+
+/* NavbarHeader */
+.NavbarH {
+    /* height: 73px; */
+    /* padding: 27px 274px 24px 278px; */
+    object-fit: contain;
+    border: solid 1px rgba(112, 112, 112, 0);
+    background-color: #362b29 !important;
+    color: #fff !important;
+}
+
+.buttonH {
+    background: #362b29 !important;
+    border: none !important;
+}
+
+img.CR_bandera {
+    width: 22px;
+    height: 13px;
+    margin: 4px 4px 5px 0;
+}
+
+/* NavbarBody */
+.navbarB {
+    /* height: 107px !important; */
+    /* margin: 73px 0 0; */
+    padding: 15px !important;
+    background-color: #00ade5 !important;
+}
+
+.buttonB {
+    background: #00ade5 !important;
+    border: none;
+}
+
+.btn_search {
+    color: white !important;
+    border-radius: 0px 10px 10px 0px !important;
+    background-color: #362b29 !important;
+    border: solid 1px rgba(112, 112, 112, 0) !important;
+}
+
+.input_search {
+    border-radius: 10px 0px 0px 10px !important;
+}
+
+.txt {
+    color: white !important;
+    font-size: 16px;
+}
+
+.img_carrito{
+    width: 67px;
+    height: 52px;
+}
+
+/* NavbarFooter */
+
+.buttonF {
+    background-color: #fff;
+    border: none !important;
+    padding: 20px 5px;
+}

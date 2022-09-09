@@ -1,0 +1,26 @@
+{
+    "NavHeader.español": "Spanish",
+    "NavHeader.ingles": "English",
+    "NavHeader.deseos": "WISH LIST",
+    "NavHeader.micuenta": "MY ACCOUNT",
+    "NavHeader.ordenes": "MY ORDERS",
+
+    "NavBody.carreta": "MY CART: ",
+    "NavBody.buscar": "Search",
+    "NavBody.buscarP": "Escribe aquí lo que quieras buscar",
+
+    "NavbarFooter.inicio": "HOME",
+    "NavbarFooter.categorias": "CATEGORIES",
+    "NavbarFooter.tiendas": "STORES",
+    "NavbarFooter.historias": "STORIES",
+
+    "BodyDiferenciadoresTitulo.entrega": "HOME DELIVERY",
+    "BodyDiferenciadoresTitulo.electronico": "ELECTRONIC PAYMENT",
+    "BodyDiferenciadoresTitulo.nacionales": "NATIONAL PRODUCTS",
+    "BodyDiferenciadoresTitulo.telefonico": "PHONE SUPPORT",
+
+    "BodyDiferenciadoresTexto.entrega": "We deliver your purchases to the door of your home or office.",
+    "BodyDiferenciadoresTexto.electronico": "You can pay directly with your credit or debit card.",
+    "BodyDiferenciadoresTexto.nacionales": "All products at Mi Mercadito are made in Costa Rica",
+    "BodyDiferenciadoresTexto.telefonico": "Write to us at 6128-1490 and we will gladly assist you"
+}

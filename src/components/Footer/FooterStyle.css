@@ -1,0 +1,36 @@
+.footer {
+    height: 503px;
+    /* margin: 95px 0 0; */
+    background-color: #004d67;
+    color: #ffffff;
+    font-size: 10px;
+}
+.footer_bottom {
+    height: 58px;
+    background-color: #002a39;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.fcol {
+    background-color: aliceblue;
+}
+
+.img_m {
+    width: 246px;
+    height: 63px;
+}
+
+.txt {
+    font-size: 12px;
+}
+
+.bt_afiliate {
+    width: 144px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #ff9029;
+}
+/* .txt_config{
+    text-align: center;
+} */
