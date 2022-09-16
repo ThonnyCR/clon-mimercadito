@@ -6,12 +6,14 @@ import MensajesIngles from '../../lang/en.json'
 import { useContext } from 'react';
 import './NavbarBreackpoints.css'
 
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const Navbar = () => {
 
     const idioma = useContext(langContext);
-    // console.log(idioma.establecerLenguaje())
-    // onClick={()=>idioma.establecerlenguaje('en')
+
 
     return (
         <>
@@ -25,27 +27,13 @@ export const Navbar = () => {
                         <div >
                             <div className="dropdown">
                                 <button className="btn btn-secondary dropdown-toggle buttonH" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Idiom
+                                    Languaje
                                 </button>
                                 <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
                                     <li><a className="dropdown-item" onClick={() => idioma.establecerLenguaje('es')}>Español</a></li>
                                     <li><a className="dropdown-item" onClick={() => idioma.establecerLenguaje('en')}>Ingles</a></li>
                                 </ul>
-                            </div>  
-                            {/* <select id='selectI' className="form-select buttonH text-white" aria-label="Default select example">
-                                <option id='es' value="Español">
-                                    <FormattedMessage
-                                        id='NavHeader.español'
-                                        defaultMessage="Español"
-                                    />
-                                </option>
-                                <option id='en' value="English">
-                                    <FormattedMessage
-                                        id='NavHeader.ingles'
-                                        defaultMessage="Ingles"
-                                    />
-                                </option>
-                            </select> */}
+                            </div>
                         </div>
                         <div >
                             <select id='selectI' className="form-select buttonH text-white" aria-label="Default select example">
@@ -69,7 +57,7 @@ export const Navbar = () => {
                             </li>
                             <li className="nav-item ">
                                 <button className="nav-link text-white buttonH">
-                                <FormattedMessage
+                                    <FormattedMessage
                                         id='NavHeader.ordenes'
                                         defaultMessage="MIS ORDENES"
                                     />
@@ -77,7 +65,7 @@ export const Navbar = () => {
                             </li>
                             <li className="nav-item">
                                 <button className="nav-link text-white buttonH">
-                                <FormattedMessage
+                                    <FormattedMessage
                                         id='NavHeader.micuenta'
                                         defaultMessage="MI CUENT"
                                     />
@@ -87,6 +75,7 @@ export const Navbar = () => {
                     </div>
                 </div>
             </nav>
+
             <nav className="navbar navbar-expand-lg navbar-light navbarB">
                 <div className="container ">
                     <div className='row w-100'>
@@ -118,6 +107,7 @@ export const Navbar = () => {
                     </div>
                 </div>
             </nav>
+            
             <nav className='navbar navbar-expand-sm text-black '>
                 <div id='navFooter' className='container d-flex justify-content-start'>
                     <button className='buttonF'>
@@ -140,17 +130,29 @@ export const Navbar = () => {
                                     <li><a className="dropdown-item">Bebidas</a></li>
                                     <li><a className="dropdown-item">Regalos y Souvenirs</a></li>
                                     <li><a className="dropdown-item">Cuidado personal</a></li>
-                                    <li><a className="dropdown-item">Mujer - Accesorios</a></li>
-                                    <li><a className="dropdown-item">Mujer - Ropa</a></li>
-                                    <li><a className="dropdown-item">Mujer - Ropa deportiva</a></li>
-                                    <li><a className="dropdown-item">Mujer - Ropa deportiva</a></li>
-                                    <li><a className="dropdown-item">Hombre - Ropa</a></li>
-                                    <li><a className="dropdown-item">Hombre - Ropa deportiva</a></li>
-                                    <li><a className="dropdown-item">Bebé - Accesorios</a></li>
+                                    <li className="dropdown-submenu"><a className="dropdown-item dropdown-toggle" >Mujer</a>
+                                        <ul className="dropdown-menu">
+                                            <li><a className="dropdown-item">Accesorios</a></li>
+                                            <li><a className="dropdown-item">Ropa</a></li>
+                                            <li><a className="dropdown-item">Ropa deportiva</a></li>
+                                        </ul>
+                                    </li>
+                                    <li className="dropdown-submenu"><a className="dropdown-item dropdown-toggle" >Hombre</a>
+                                        <ul className="dropdown-menu">
+                                            <li><a className="dropdown-item">Accesorios</a></li>
+                                            <li><a className="dropdown-item">Ropa</a></li>
+                                            <li><a className="dropdown-item">Ropa deportiva</a></li>
+                                        </ul>
+                                    </li>
                                 </div>
                                 <div className='col-xs-12 col-md-6'>
-                                    <li><a className="dropdown-item">Bebé - Cuidado personal</a></li>
-                                    <li><a className="dropdown-item">Bebé - Ropa</a></li>
+                                    <li className="dropdown-submenu"><a className="dropdown-item dropdown-toggle" >Bebe</a>
+                                        <ul className="dropdown-menu">
+                                            <li><a className="dropdown-item">Accesorios</a></li>
+                                            <li><a className="dropdown-item">Cuidado personal</a></li>
+                                            <li><a className="dropdown-item">Ropa</a></li>
+                                        </ul>
+                                    </li>
                                     <li><a className="dropdown-item">Arte</a></li>
                                     <li><a className="dropdown-item">Electrónica</a></li>
                                     <li><a className="dropdown-item">Hogar y Jardín</a></li>
@@ -178,4 +180,5 @@ export const Navbar = () => {
             </nav>
         </>
     )
+    
 }

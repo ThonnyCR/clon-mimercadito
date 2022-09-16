@@ -43,7 +43,7 @@ export const BodyCardSlider3 = () => {
     return (
         <>
             <div className="container">
-                <p className="p-title-products2">PRODUCTOS NUEVOS E INCREIBLES</p>
+                <p className="p-title-products3">PRODUCTOS MÁS POPULARES</p>
                 <Slider {...settings}>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
@@ -60,6 +60,11 @@ export const BodyCardSlider3 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 end-0 desc">
+                                    <p className="desc_text">-10%</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src\assets\img\cardSlider\miel_2_2.jpg" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 684</p>
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>
@@ -86,6 +91,14 @@ export const BodyCardSlider3 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                                <div className="position-absolute top-0 end-0 desc">
+                                    <p className="desc_text">-10%</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src\assets\img\cardSlider2\Chile+de+árbol.png" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 684</p>
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>

@@ -47,6 +47,11 @@ export const BodyCardSlider2 = () => {
                 <Slider {...settings}>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src\assets\img\cardSlider2\Negra_Back.png" className="img-fluid" /></div>
                             <p className="slider-card-title">₡10 000</p>
                             <p className="slider-card-title">Camiseta - Vida Feroz</p>
@@ -60,6 +65,11 @@ export const BodyCardSlider2 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src\assets\img\cardSlider2\Negra_Back.png" className="img-fluid" /></div>
                             <p className="slider-card-title">₡10 000</p>
                             <p className="slider-card-title">Camiseta - Vida Feroz</p>
@@ -73,6 +83,11 @@ export const BodyCardSlider2 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src\assets\img\cardSlider2\Beige_Back.png" className="img-fluid" /></div>
                             <p className="slider-card-title">₡10 000</p>
                             <p className="slider-card-title">Camiseta - Vida Feroz</p>
@@ -86,6 +101,15 @@ export const BodyCardSlider2 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                                <div className="position-absolute top-0 end-0 desc">
+                                    <p className="desc_text">-10%</p>
+                                </div>
+                            </div>
+
                             <div className="slider-card-image"><img src="src\assets\img\cardSlider2\Chile+de+árbol.png" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 684</p>
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>
@@ -99,6 +123,11 @@ export const BodyCardSlider2 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 500</p>
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>

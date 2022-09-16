@@ -47,7 +47,9 @@ export const BodyCardSlider = () => {
                 <Slider {...settings}>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
-                            <div className="slider-card-image"><img src="src/assets/img/cardSlider/miel_1_2.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image">
+                                <img src="src/assets/img/cardSlider/miel_1_2.jpg" className="img-fluid" />
+                            </div>
                             <p className="slider-card-title">₡2 500</p>
                             <p className="slider-card-title">Miel con Chile Árbol</p>
                             <p className="slider-card-description">Envase de 70g - Sabor suave y delicado con toques almendrados.</p>
@@ -55,13 +57,15 @@ export const BodyCardSlider = () => {
                                 <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 Añadir a la carreta
                             </div>
-                            {/* <span className='d-flex justify-content-center'>
-                                <img src="src\assets\img\cardSlider\Group 240.png" className="btnAgregar" />
-                            </span> */}
                         </div>
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 end-0 desc">
+                                    <p className="desc_text">-10%</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 684</p>
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>
@@ -70,9 +74,6 @@ export const BodyCardSlider = () => {
                                 <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 Añadir a la carreta
                             </div>
-                            {/* <span className='d-flex justify-content-center'>
-                                <img src="src\assets\img\cardSlider\Group 240.png" className="btnAgregar" />
-                            </span> */}
                         </div>
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
@@ -85,24 +86,23 @@ export const BodyCardSlider = () => {
                                 <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 Añadir a la carreta
                             </div>
-                            {/* <span className='d-flex justify-content-center'>
-                                <img src="src\assets\img\cardSlider\Group 240.png" className="btnAgregar" />
-                            </span> */}
                         </div>
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
+                            <div className="position-relative ">
+                                <div className="position-absolute top-0 start-0 new">
+                                    <p className="new_text">Nuevo</p>
+                                </div>
+                            </div>
                             <div className="slider-card-image"><img src="src/assets/img/cardSlider/CHILE_PERRO.jpg" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 500</p>
-                            <p className="slider-card-title">Miel con Chile Perro</p>
+                            <p className="slider-card-title">Chile Perro</p>
                             <p className="slider-card-description">Envase de vidrio 300g ' Sabor fresco con un toque de acidez y picante.</p>
                             <div className="d-flex justify-content-center btnAgregar btn">
                                 <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 Añadir a la carreta
                             </div>
-                            {/* <span className='d-flex justify-content-center'>
-                                <img src="src\assets\img\cardSlider\Group 240.png" className="btnAgregar" />
-                            </span> */}
                         </div>
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
@@ -115,9 +115,6 @@ export const BodyCardSlider = () => {
                                 <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 Añadir a la carreta
                             </div>
-                            {/* <span className='d-flex justify-content-center'>
-                                <img src="src\assets\img\cardSlider\Group 240.png" className="btnAgregar" />
-                            </span> */}
                         </div>
                     </div>
                 </Slider>

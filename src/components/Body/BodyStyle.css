@@ -45,6 +45,7 @@
 }
 
 /* Body Cards */
+/* Cards 1 */
 .p-title-products {
     font-weight: bold;
     text-decoration: solid #ff1c7c 3px;
@@ -53,12 +54,66 @@
 
 }
 
+.desc{
+    width: 71px;
+    height: 39px;
+    background-color: #fff;
+    opacity: 0.8;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.desc_text{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff1c7c;
+    text-align: center;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.new{
+    width: 71px;
+    height: 39px;
+    background-color: #fff;
+    opacity: 0.8;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+.new_text{
+    font-size: 16px;
+    font-weight: bold;
+    color: #00ade5;
+    text-align: center;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
 .p-title-products2 {
     font-weight: bold;
     text-decoration: solid #ff1c7c 3px;
     border-bottom: solid #ff1c7c 3px;
     width: 268px;
     margin-top: 60px;
+}
+
+.p-title-products3 {
+    font-weight: bold;
+    text-decoration: solid #ff1c7c 3px;
+    border-bottom: solid #ff1c7c 3px;
+    width: 235px;
+    margin-top: 60px;
+}
+
+.p-title-products4 {
+    font-weight: bold;
+    text-decoration: solid #ff1c7c 3px;
+    border-bottom: solid #ff1c7c 3px;
+    width: 185px;
+    /* margin-top: 10px; */
 }
 
 #main-slider-container {
@@ -155,7 +210,7 @@
 .reactslicksliderparent .slick-next {
     position: absolute;
     
-    top: 50%;
+    top: 40%;
 }
 
 .reactslicksliderparent .slick-prev {
@@ -193,4 +248,29 @@
 .ads_acce_mujer{
     margin-bottom: 22px;
     
+}
+
+/* BodyCardSlider4 */
+
+.card_category{
+    width: 150px;
+    height: 150px;
+    background-color: #00ade5;
+    border-radius: 20px;
+    box-shadow: 3px 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.card_category_text{
+    margin-top  : 13px;
+    width: 150px;
+    font-size: 16px;
+    color: #505050;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.card{
+    border: none !important;
+    background-color: #fBFBfB !important;
 }

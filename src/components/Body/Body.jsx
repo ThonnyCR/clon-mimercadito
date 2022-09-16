@@ -6,6 +6,7 @@ import Slider from "react-slick";
 import { BodyCardSlider } from './BodyCardSlider';
 import { BodyCardSlider2 } from './BodyCardSlider2';
 import { BodyCardSlider3 } from './BodyCardSlider3';
+import { BodyCardSlider4 } from './BodyCardSlider4';
 
 export const Body = () => {
     var settings = {
@@ -205,6 +206,7 @@ export const Body = () => {
 
             <BodyCardSlider3 />
 
+            <BodyCardSlider4/>
         </>
     )
 }

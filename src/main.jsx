@@ -6,6 +6,8 @@ import 'slick-carousel/slick/slick.js'
 import 'slick-carousel/slick/slick-theme.css'
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css'
 import { Navbar } from './components/Navbar/Navbar';
 import {Body} from './components/Body/Body'

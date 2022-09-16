@@ -1,56 +1,223 @@
-@media (min-width: 0PX) and (max-width: 992px ){
+@media (min-width: 0PX) and (max-width: 992px) {
+
     /* NavbarBody */
     #column1 {
         display: flex;
-        justify-content:center;
+        justify-content: center;
         margin: 5px 0px;
     }
+
     #column2 {
         display: flex;
-        justify-content:center;
+        justify-content: center;
         align-items: center;
         margin: 5px 0px;
     }
+
     #column3 {
         display: flex;
-        justify-content:center;
+        justify-content: center;
         margin: 5px 0px;
     }
+
     /* NavbarFooter */
-    #navFooter{
+    #navFooter {
         display: flex;
         justify-content: center !important;
     }
-    #dropdown_items{
+
+    #dropdown_items {
         display: block !important;
+    }
+
+    /* BodyCardStyle */
+    .p-title-products {
+
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .p-title-products2 {
+
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .p-title-products3 {
+
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .p-title-products4 {
+
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    /* Footer */
+    #columnf1 {
+        text-align: center !important;
+        padding-bottom: 10px;
+    }
+
+    #columnf2 {
+        /* font-size: 12px; */
+        text-align: center !important;
+        padding-bottom: 10px;
+    }
+
+    #columnf3 {
+        /* font-size: 12px; */
+        text-align: center !important;
+        padding-bottom: 15px;
+    }
+
+    #columnf4 {
+        /* font-size: 12px; */
+        text-align: center !important;
+        padding-bottom: 15px;
+    }
+
+    .hr-footer {}
+
+    .footer {
+        height: 855px !important;
+
+    }
+
+    .footer_f {
+        height: 90px !important;
     }
 }
 
-@media (min-width: 768PX) and (max-width: 992px ){
+@media (min-width: 768PX) and (max-width: 992px) {
+
     /* NavbarBody */
-    #dropdown_items{
+    #dropdown_items {
         display: flex !important;
     }
+
+
+    /* footer */
+    .columnf1 {
+        /* font-size: 12px; */
+        text-align: center !important;
+
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+    .footer {
+        height: 530px !important;
+        /* text-align: center; */
+    }
+
+    #columnf1 {
+        text-align: center !important;
+        padding-bottom: 10px;
+    }
+
+    #columnf2 {
+        /* font-size: 12px; */
+        text-align: center !important;
+        padding-bottom: 10px;
+    }
+
+    #columnf3 {
+        /* font-size: 12px; */
+        text-align: center !important;
+        padding-bottom: 15px;
+    }
+
+    #columnf4 {
+        /* font-size: 12px; */
+        text-align: center !important;
+        padding-bottom: 15px;
+    }
+
+    .img_t{
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 1201PX) and (max-width: 1400px) {
+    #columnf1 {
+        text-align: left !important;
+        padding-bottom: 10px;
+    }
+
+    #columnf2 {
+        /* font-size: 12px; */
+        text-align: left !important;
+        padding-bottom: 10px;
+    }
+
+    #columnf3 {
+        /* font-size: 12px; */
+        text-align: left !important;
+        padding-bottom: 15px;
+    }
+
+    #columnf4 {
+        /* font-size: 12px; */
+        text-align: left !important;
+        padding-bottom: 15px;
+    }
+
+    .img_t{
+        margin-bottom: 15px;
+    }
+    
 }
 
 @media (min-width: 993px) and (max-width: 2000px) {
+
     /* NavbarBody */
     #column1 {
         display: flex;
         justify-content: start;
-        
+
         margin: 5px 0px;
     }
+
     #column2 {
         display: flex;
         align-items: center;
-        justify-content:center; 
+        justify-content: center;
         margin: 5px 0px;
     }
+
     #column3 {
         display: flex;
         justify-content: end !important;
         margin: 5px 0px;
     }
-    /* NavbarFooter */
+
+    /* Footer */
+    .columnf1 {
+        /* font-size: 12px; */
+        text-align: left !important;
+
+    }
+
+    .hr-footer {
+        display: none;
+    }
+
+    .footer {
+        height: 350px !important;
+        /* text-align: center; */
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+    .footer {
+        height: 545px !important;
+        /* text-align: center; */
+    }
 }
