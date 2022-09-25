@@ -7,6 +7,8 @@ import { BodyCardSlider } from './BodyCardSlider';
 import { BodyCardSlider2 } from './BodyCardSlider2';
 import { BodyCardSlider3 } from './BodyCardSlider3';
 import { BodyCardSlider4 } from './BodyCardSlider4';
+import { BodyCardSlider5 } from './BodyCardSlider5';
+import { BodyProductGroup } from './BodyProductGroup';
 
 export const Body = () => {
     var settings = {
@@ -206,7 +208,10 @@ export const Body = () => {
 
             <BodyCardSlider3 />
 
-            <BodyCardSlider4/>
+            <BodyCardSlider4 />
+
+            <BodyCardSlider5/>
+            <BodyProductGroup />
         </>
     )
 }

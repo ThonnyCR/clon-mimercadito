@@ -22,5 +22,24 @@
     "BodyDiferenciadoresTexto.entrega": "We deliver your purchases to the door of your home or office.",
     "BodyDiferenciadoresTexto.electronico": "You can pay directly with your credit or debit card.",
     "BodyDiferenciadoresTexto.nacionales": "All products at Mi Mercadito are made in Costa Rica",
-    "BodyDiferenciadoresTexto.telefonico": "Write to us at 6128-1490 and we will gladly assist you"
+    "BodyDiferenciadoresTexto.telefonico": "Write to us at 6128-1490 and we will gladly assist you",
+
+    "BodyCardSlider1.titulo": "FEATURED PRODUCTS",
+    "BodyCardSlider1.btn": "Add to cart",
+
+    "BodyCardSlider2.titulo": "NEW AND INCREDIBLE PRODUCTS",
+
+    "BodyCardSlider3.titulo": "MOST POPULAR PRODUCTS",
+
+    "BodyCardSlider4.titulo": "EXPLORE CATEGORIES",
+
+    "BodyCardSlider5.titulo": "DISCOUNTED PRODUCTS",
+
+    "BodyProductsGroup1.titulo":"FOOD & BEVERAGE",
+
+    "BodyProductsGroup2.titulo":"CLOTHING AND ACCESSORIES",
+
+    "BodyProductsGroup3.titulo":"GIFTS AND SOUVENIRS",
+
+    "BodyProductsGroup.boton":"See more"
 }

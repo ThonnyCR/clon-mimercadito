@@ -23,5 +23,24 @@
     "BodyDiferenciadoresTexto.entrega": "Entregamos sus compras hasta la puerta de su casa u oficina.",
     "BodyDiferenciadoresTexto.electronico": "Podés pagar directamente con tu tarjeta de crédito o débito.",
     "BodyDiferenciadoresTexto.nacionales": "Todos los productos en Mi Mercadito son hechos en Costa Rica",
-    "BodyDiferenciadoresTexto.telefonico": "Escribirnos al 6128-1490 y con gusto te atenderemos"
+    "BodyDiferenciadoresTexto.telefonico": "Escribirnos al 6128-1490 y con gusto te atenderemos",
+
+    "BodyCardSlider1.titulo": "PRODUCTOS DESTACADOS",
+    "BodyCardSlider1.btn": "Añadir a la carreta",
+
+    "BodyCardSlider2.titulo": "PRODUCTOS NUEVOS E INCREIBLES",
+
+    "BodyCardSlider3.titulo": "PRODUCTOS MÁS POPULARES",
+
+    "BodyCardSlider4.titulo": "EXPLORAR CATEGORIAS",
+
+    "BodyCardSlider5.titulo": "PRODUCTOS CON DESCUENTO",
+
+    "BodyProductsGroup1.titulo":"ALIMENTACIÓN Y BEBIDAS",
+
+    "BodyProductsGroup2.titulo":"ROPA Y ACCESORIOS",
+
+    "BodyProductsGroup3.titulo":"REGALOS Y SOUVENIRS",
+
+    "BodyProductsGroup.boton":"Ver más"
 }

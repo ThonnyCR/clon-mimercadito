@@ -2,6 +2,7 @@ import Slider from "react-slick";
 import React, { Component } from 'react'
 import './BodyStyle.css'
 import './BodyBreackpoints.css'
+import { FormattedMessage } from 'react-intl';
 
 export const BodyCardSlider4 = () => {
     var settings = {
@@ -26,9 +27,9 @@ export const BodyCardSlider4 = () => {
             {
                 breakpoint: 700,
                 settings: {
-                    slidesToShow: 1,
+                    slidesToShow: 2,
                     slidesToScroll: 1,
-                    initialSlide: 1
+                    initialSlide: 2
                 }
             },
             {
@@ -43,7 +44,12 @@ export const BodyCardSlider4 = () => {
     return (
         <>
             <div className="container">
-                <p id="#p-title-products" className="p-title-products4">EXPLORAR CATEGORIAS</p>
+                <p id="#p-title-products" className="p-title-products4">
+                    <FormattedMessage
+                        id='BodyCardSlider4.titulo'
+                        defaultMessage="EXPLORAR CATEGORIAS"
+                    />
+                </p>
                 <Slider {...settings}>
                     <div className="d-inline-flex justify-content-center align-items-center">
                         <div className="card">
