@@ -41,5 +41,29 @@
 
     "BodyProductsGroup3.titulo":"GIFTS AND SOUVENIRS",
 
-    "BodyProductsGroup.boton":"See more"
+    "BodyProductsGroup.boton":"See more",
+
+    "FooterTitulo.nosotros": "US",
+    "FooterTexto.terminos": "Terms and Conditions of Use",
+    "FooterTexto.reglamento": "Regulations of deliveries and changes",
+    "FooterTexto.preguntas": "Frequently asked questions",
+    "FooterTexto.acuerdo": "Privacy Agreement",
+
+    "FooterTitulo.nuestro": "OUR SITE:",
+    "FooterTexto.productos": "Products",
+    "FooterTexto.tiendas": "Stores",
+    "FooterTexto.blog": "Blog",
+    "FooterTexto.contacto": "Contact",
+    "FooterTexto.sitio": "Business Partner Site",
+
+
+    "FooterTitulo.quieres": "DO YOU WANT TO SELL YOUR PRODUCTS IN MI MERCADITO?",
+    "FooterTexto.afiliate": "AFFILIATE",
+
+    "FooterTitulo.contacto": "CONTACT:",
+    
+    "FooterTexto.derechos": " All rights reserved",
+
+    "FooterTexto.desarollado": "Developed by "
+
 }
