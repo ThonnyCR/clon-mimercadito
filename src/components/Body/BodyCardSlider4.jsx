@@ -56,7 +56,7 @@ export const BodyCardSlider4 = () => {
                             <div className="card-body">
                                 <div className="card_category d-flex justify-content-center align-items-center">
                                     <span>
-                                        <img src="src\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_alimentos.png" alt="Alimentos" />
+                                        <img src="\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_alimentos.png" alt="Alimentos" />
                                     </span>
                                 </div>
                                 <p className="card_category_text">Alimentos</p>
@@ -68,7 +68,7 @@ export const BodyCardSlider4 = () => {
                             <div className="card-body">
                                 <div className="card_category d-flex justify-content-center align-items-center">
                                     <span>
-                                        <img src="src\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_bebidas.png" alt="Alimentos" />
+                                        <img src="\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_bebidas.png" alt="Alimentos" />
                                     </span>
                                 </div>
                                 <p className="card_category_text">Bebidas</p>
@@ -80,7 +80,7 @@ export const BodyCardSlider4 = () => {
                             <div className="card-body">
                                 <div className="card_category d-flex justify-content-center align-items-center">
                                     <span>
-                                        <img src="src\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_regalos.png" alt="Alimentos" />
+                                        <img src="\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_regalos.png" alt="Alimentos" />
                                     </span>
                                 </div>
                                 <p className="card_category_text">Regalos y Souvenirs</p>
@@ -92,7 +92,7 @@ export const BodyCardSlider4 = () => {
                             <div className="card-body">
                                 <div className="card_category d-flex justify-content-center align-items-center">
                                     <span>
-                                        <img src="src\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_mujer accsesorio.png" alt="Alimentos" />
+                                        <img src="\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_mujer accsesorio.png" alt="Alimentos" />
                                     </span>
                                 </div>
                                 <p className="card_category_text">Mujer - Accesorios</p>
@@ -104,7 +104,7 @@ export const BodyCardSlider4 = () => {
                             <div className="card-body">
                                 <div className="card_category d-flex justify-content-center align-items-center">
                                     <span>
-                                        <img src="src\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_mujer ropa.png" alt="Alimentos" />
+                                        <img src="\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_mujer ropa.png" alt="Alimentos" />
                                     </span>
                                 </div>
                                 <p className="card_category_text">Mujer - Ropa</p>
@@ -116,7 +116,7 @@ export const BodyCardSlider4 = () => {
                             <div className="card-body">
                                 <div className="card_category d-flex justify-content-center align-items-center">
                                     <span>
-                                        <img src="src\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_mujer deportiva.png" alt="Alimentos" />
+                                        <img src="\assets\img\cardSlider4\iconos_mercadito65x65px_blanco_mujer deportiva.png" alt="Alimentos" />
                                     </span>
                                 </div>
                                 <p className="card_category_text">Mujer - Ropa Deportiva</p>

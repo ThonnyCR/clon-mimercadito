@@ -58,13 +58,13 @@ export const Body = () => {
                 </ol>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="src\assets\img\carousel\sorprendete.jpg" className="d-block w-100" alt="Sorprendete" />
+                        <img src="\assets\img\carousel\sorprendete.jpg" className="d-block w-100" alt="Sorprendete" />
                     </div>
                     <div className="carousel-item">
-                        <img src="src\assets\img\carousel\quaker.webp" className="d-block w-100" alt="Quaker" />
+                        <img src="\assets\img\carousel\quaker.webp" className="d-block w-100" alt="Quaker" />
                     </div>
                     <div className="carousel-item">
-                        <img src="src\assets\img\carousel\frescos.webp" className="d-block w-100" alt="Despensa" />
+                        <img src="\assets\img\carousel\frescos.webp" className="d-block w-100" alt="Despensa" />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -82,7 +82,7 @@ export const Body = () => {
                     <div className="col-6 col-lg-3">
                         <div className='card_differentiator d-flex'>
                             <div className='col-2'>
-                                <img src="src\assets\img\differentiator\ico_entrega.png" className="d-flex img_card img-fluid" alt="..." />
+                                <img src="\assets\img\differentiator\ico_entrega.png" className="d-flex img_card img-fluid" alt="..." />
                             </div>
                             <div className='d-block col-10'>
                                 <h1 className='card_title'>
@@ -103,7 +103,7 @@ export const Body = () => {
                     <div className="col-6 col-lg-3">
                         <div className='card_differentiator d-flex '>
                             <div className='col-2'>
-                                <img src="src\assets\img\differentiator\ico_entrega.png" className="img-fluid img_card" alt="..." />
+                                <img src="\assets\img\differentiator\ico_entrega.png" className="img-fluid img_card" alt="..." />
                             </div>
                             <div className='d-block col-10'>
                                 <h1 className='card_title'>
@@ -125,7 +125,7 @@ export const Body = () => {
                     <div className="col-6 col-lg-3">
                         <div className='card_differentiator d-flex'>
                             <div className='col-2'>
-                                <img src="src\assets\img\differentiator\ico_entrega.png" className="img-fluid img_card" alt="..." />
+                                <img src="\assets\img\differentiator\ico_entrega.png" className="img-fluid img_card" alt="..." />
                             </div>
                             <div className='d-block col-10'>
                                 <h1 className='card_title'>
@@ -147,7 +147,7 @@ export const Body = () => {
                     <div className="col-6 col-lg-3">
                         <div className='card_differentiator d-flex'>
                             <div className='col-2'>
-                                <img src="src\assets\img\differentiator\ico_entrega.png" className="img-fluid img_card" alt="..." />
+                                <img src="\assets\img\differentiator\ico_entrega.png" className="img-fluid img_card" alt="..." />
                             </div>
                             <div className='d-block col-10'>
                                 <h1 className='card_title'>
@@ -174,18 +174,18 @@ export const Body = () => {
                 <div className='container d-flex justify-content-center text-center'>
                     <div className='row w-100'>
                         <div className=" col-xl-6 col-lg-12 ads_img1">
-                            <img src="src/assets/img/ads/descargAPP.png" className="img-fluid" />
+                            <img src="/assets/img/ads/descargAPP.png" className="img-fluid" />
                         </div>
                         <div className=' col-xl-6 col-lg-12'>
                             <div className="row">
                                 <div className="col-6 col-md-6 ads_img2">
-                                    <img src="src\assets\img\ads\Little Endian.png" className="float-end img-fluid" />
+                                    <img src="\assets\img\ads\Little Endian.png" className="float-end img-fluid" />
                                 </div>
                                 <div className="col-6 col-md-6 ">
-                                    <img src="src\assets\img\ads\Saucy King.png" className="float-start img-fluid" />
+                                    <img src="\assets\img\ads\Saucy King.png" className="float-start img-fluid" />
                                 </div>
                                 <div className="col-12 col-md-12 ">
-                                    <img src="src\assets\img\ads\Cerveza Artesanal.png" className="img-fluid" />
+                                    <img src="\assets\img\ads\Cerveza Artesanal.png" className="img-fluid" />
                                 </div>
                             </div>
                         </div>
@@ -198,10 +198,10 @@ export const Body = () => {
             <div className='container d-flex justify-content-center text-center'>
                 <div className='row w-100'>
                     <div className=" col-xl-6 col-lg-12 ads_acce_mujer">
-                        <img src="src\assets\img\ads\Accesorios Mujer.png" className="img-fluid " />
+                        <img src="\assets\img\ads\Accesorios Mujer.png" className="img-fluid " />
                     </div>
                     <div className=' col-xl-6 col-lg-12 '>
-                        <img src="src\assets\img\ads\Accesorios Perros.png" className="img-fluid" />
+                        <img src="\assets\img\ads\Accesorios Perros.png" className="img-fluid" />
                     </div>
                 </div>
             </div>

@@ -22,7 +22,7 @@ export const Navbar = () => {
                     <div className='justify-content-between d-flex'>
                         <div>
 
-                            <img src="src/assets/img/costa-rica.png" className="CR_bandera" />
+                            <img src="/assets/img/costa-rica.png" className="CR_bandera" />
                         </div>
                         <div >
                             <div className="dropdown">
@@ -80,7 +80,7 @@ export const Navbar = () => {
                 <div className="container ">
                     <div className='row w-100'>
                         <div id='column1' className='col-sm-12 col-md-6 col-lg-4 '>
-                            <img src="src/assets/img/logo_MM.png" className="logo_MM img-fluid" />
+                            <img src="/assets/img/logo_MM.png" className="logo_MM img-fluid" />
                         </div>
                         <div id='column2' className='col-sm-12 col-md-6 col-lg-4'>
                             <form className="d-flex">
@@ -100,7 +100,7 @@ export const Navbar = () => {
                                     id='NavBody.carreta'
                                     defaultMessage="MI CARRETA: "
                                 />
-                                <span><img className='img_carrito img-fluid' src="src/assets/img/carrito.png" alt="carrito" /></span> ₡ 5 000.00</button>
+                                <span><img className='img_carrito img-fluid' src="/assets/img/carrito.png" alt="carrito" /></span> ₡ 5 000.00</button>
 
                         </div>
 

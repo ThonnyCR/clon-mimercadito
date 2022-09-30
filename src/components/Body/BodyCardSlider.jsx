@@ -54,13 +54,13 @@ export const BodyCardSlider = () => {
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
                             <div className="slider-card-image">
-                                <img src="src/assets/img/cardSlider/miel_1_2.jpg" className="img-fluid" />
+                                <img src="/assets/img/cardSlider/miel_1_2.jpg" className="img-fluid" />
                             </div>
                             <p className="slider-card-title">₡2 500</p>
                             <p className="slider-card-title">Miel con Chile Árbol</p>
                             <p className="slider-card-description">Envase de 70g - Sabor suave y delicado con toques almendrados.</p>
                             <div className="d-flex justify-content-center btnAgregar btn btn_fix">
-                                <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 <FormattedMessage
                                     id='BodyCardSlider1.btn'
                                     defaultMessage=" Añadir a la carreta"
@@ -75,13 +75,13 @@ export const BodyCardSlider = () => {
                                     <p className="desc_text">-10%</p>
                                 </div>
                             </div>
-                            <div className="slider-card-image"><img src="src/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
                             <h2 className='slider_card_desc d-flex'>₡2 684 <span className='slider_card_desc_ant'>₡2 825</span></h2>
                             {/* <p className="slider-card-title">₡2 684</p> */}
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>
                             <p className="slider-card-description">Envase de vidrio 300g - Sabor fresco.</p>
                             <div className="d-flex justify-content-center btnAgregar btn btn_fix">
-                                <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 <FormattedMessage
                                     id='BodyCardSlider1.btn'
                                     defaultMessage=" Añadir a la carreta"
@@ -91,7 +91,7 @@ export const BodyCardSlider = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
-                            <div className="slider-card-image"><img src="src/assets/img/cardSlider/MANTEQUILLA_ALMENDRA.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="/assets/img/cardSlider/MANTEQUILLA_ALMENDRA.jpg" className="img-fluid" /></div>
                             <div className="align-items-center body_card">
                                 <span>
                                     <p className="slider-card-title">₡2 500</p>
@@ -101,7 +101,7 @@ export const BodyCardSlider = () => {
                                 </span>
                                 <span>
                                     <div className="d-flex justify-content-center btnAgregar btn">
-                                        <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                        <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                         <FormattedMessage
                                             id='BodyCardSlider1.btn'
                                             defaultMessage=" Añadir a la carreta"
@@ -120,12 +120,12 @@ export const BodyCardSlider = () => {
                                     <p className="new_text">Nuevo</p>
                                 </div>
                             </div>
-                            <div className="slider-card-image"><img src="src/assets/img/cardSlider/CHILE_PERRO.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="/assets/img/cardSlider/CHILE_PERRO.jpg" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 500</p>
                             <p className="slider-card-title">Chile Perro</p>
                             <p className="slider-card-description">Envase de vidrio 300g ' Sabor fresco con un toque de acidez y picante.</p>
                             <div className="d-flex justify-content-center btnAgregar btn">
-                                <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 <FormattedMessage
                                     id='BodyCardSlider1.btn'
                                     defaultMessage=" Añadir a la carreta"
@@ -135,12 +135,12 @@ export const BodyCardSlider = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
-                            <div className="slider-card-image"><img src="src/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
                             <p className="slider-card-title">₡2 500</p>
                             <p className="slider-card-title">Miel con Chile Jalapeño</p>
                             <p className="slider-card-description">Envase de vidrio 300g - Sabor fresco.</p>
                             <div className="d-flex justify-content-center btnAgregar btn">
-                                <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                 <FormattedMessage
                                     id='BodyCardSlider1.btn'
                                     defaultMessage=" Añadir a la carreta"

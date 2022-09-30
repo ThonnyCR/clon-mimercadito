@@ -24,7 +24,7 @@ export const BodyProductGroup = () => {
                                             <p className="new_text2">Nuevo</p>
                                         </div>
                                     </div>
-                                    <img src="src/assets/img/cardSlider/miel_2_2.jpg" className=" image_product " />
+                                    <img src="/assets/img/cardSlider/miel_2_2.jpg" className=" image_product " />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -36,7 +36,7 @@ export const BodyProductGroup = () => {
                             </div>
                             <div className='d-flex card_product'>
                                 <div>
-                                    <img src="src\assets\img\cardSlider\CHILE_PERRO.jpg" className=" image_product" />
+                                    <img src="\assets\img\cardSlider\CHILE_PERRO.jpg" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -53,7 +53,7 @@ export const BodyProductGroup = () => {
                                             <p className="new_text2">Nuevo</p>
                                         </div>
                                     </div>
-                                    <img src="src\assets\img\cardSlider2\Chile+de+árbol.png" className=" image_product" />
+                                    <img src="\assets\img\cardSlider2\Chile+de+árbol.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -65,7 +65,7 @@ export const BodyProductGroup = () => {
                             </div>
                             <div className='d-flex card_product'>
                                 <div>
-                                    <img src="src\assets\img\cardSlider\MANTEQUILLA_ALMENDRA.jpg" className=" image_product" />
+                                    <img src="\assets\img\cardSlider\MANTEQUILLA_ALMENDRA.jpg" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -104,7 +104,7 @@ export const BodyProductGroup = () => {
                                             <p className="desc_text2">-5%</p>
                                         </div>
                                     </div>
-                                    <img src="src\assets\img\productGroup\93397881_3196080913758448_4391795452492644352_n.png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\93397881_3196080913758448_4391795452492644352_n.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -121,7 +121,7 @@ export const BodyProductGroup = () => {
                                             <p className="desc_text2">-5%</p>
                                         </div>
                                     </div>
-                                    <img src="src\assets\img\productGroup\Annotation 2020-06-10 231948.png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\Annotation 2020-06-10 231948.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -138,7 +138,7 @@ export const BodyProductGroup = () => {
                                             <p className="desc_text2">-5%</p>
                                         </div>
                                     </div>
-                                    <img src="src\assets\img\cardSlider2\Negra_Back.png" className=" image_product" />
+                                    <img src="\assets\img\cardSlider2\Negra_Back.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -155,7 +155,7 @@ export const BodyProductGroup = () => {
                                             <p className="desc_text2">-5%</p>
                                         </div>
                                     </div>
-                                    <img src="src\assets\img\productGroup\Annotation 2020-06-10 232025.png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\Annotation 2020-06-10 232025.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -185,7 +185,7 @@ export const BodyProductGroup = () => {
                             <hr className='hr_title_section' />
                             <div className='d-flex card_product'>
                                 <div>
-                                    <img src="src\assets\img\productGroup\HTB1mboxKFXXXXXbXFXXq6xXFXXXe.png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\HTB1mboxKFXXXXXbXFXXq6xXFXXXe.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -202,7 +202,7 @@ export const BodyProductGroup = () => {
                                             <p className="new_text2">Nuevo</p>
                                         </div>
                                     </div>
-                                    <img src="src\assets\img\productGroup\mob-toucan-wood-sculptures(1).png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\mob-toucan-wood-sculptures(1).png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -214,7 +214,7 @@ export const BodyProductGroup = () => {
                             </div>
                             <div className='d-flex card_product'>
                                 <div>
-                                    <img src="src\assets\img\productGroup\1872662.png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\1872662.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>
@@ -226,7 +226,7 @@ export const BodyProductGroup = () => {
                             </div>
                             <div className='d-flex card_product'>
                                 <div>
-                                    <img src="src\assets\img\productGroup\2019-05-03.png" className=" image_product" />
+                                    <img src="\assets\img\productGroup\2019-05-03.png" className=" image_product" />
                                 </div>
                                 <div className='body_product d-flex align-items-center'>
                                     <span className=''>

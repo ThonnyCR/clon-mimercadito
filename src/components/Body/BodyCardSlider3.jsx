@@ -53,7 +53,7 @@ export const BodyCardSlider3 = () => {
                 <Slider {...settings}>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
-                            <div className="slider-card-image"><img src="src\assets\img\cardSlider3\Annotation 2020-06-11 225059.png" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="\assets\img\cardSlider3\Annotation 2020-06-11 225059.png" className="img-fluid" /></div>
                             <div className="d-flex align-items-center body_card">
                                 <span>
                                     {/* <p className="slider-card-title">₡10 000</p>
@@ -62,7 +62,7 @@ export const BodyCardSlider3 = () => {
                                     <p className="slider-card-title">Miel con Chile Jalapeño</p>
                                     <p className="slider-card-description">Botella de 250g - Piña, mango y nuestra mezcla de chiles ¡probala!</p>
                                     <div className="d-flex justify-content-center btnAgregar btn">
-                                        <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                        <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                         <FormattedMessage
                                             id='BodyCardSlider1.btn'
                                             defaultMessage=" Añadir a la carreta"
@@ -81,7 +81,7 @@ export const BodyCardSlider3 = () => {
                                     <p className="desc_text">-10%</p>
                                 </div>
                             </div>
-                            <div className="slider-card-image"><img src="src\assets\img\cardSlider\miel_2_2.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="\assets\img\cardSlider\miel_2_2.jpg" className="img-fluid" /></div>
 
                             <div className="d-flex align-items-center body_card">
                                 <span>
@@ -89,7 +89,7 @@ export const BodyCardSlider3 = () => {
                                     <p className="slider-card-title">Miel con Chile Jalapeño</p>
                                     <p className="slider-card-description">Envase de vidrio 300g - Sabor fresco con un toque de acidez y picante.</p>
                                     <div className="d-flex justify-content-center btnAgregar btn">
-                                        <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                        <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                         <FormattedMessage
                                             id='BodyCardSlider1.btn'
                                             defaultMessage=" Añadir a la carreta"
@@ -103,7 +103,7 @@ export const BodyCardSlider3 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
-                            <div className="slider-card-image"><img src="src\assets\img\cardSlider3\Annotation 2020-06-11 225825.png" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="\assets\img\cardSlider3\Annotation 2020-06-11 225825.png" className="img-fluid" /></div>
 
                             <div className="d-flex align-items-center body_card">
                                 <span>
@@ -112,7 +112,7 @@ export const BodyCardSlider3 = () => {
                                     <p className="slider-card-title">Bee-utiful Gel Soap</p>
                                     <p className="slider-card-description">400g - Mezcla de aceites esenciales de naranja, limón e ylang ylang.</p>
                                     <div className="d-flex justify-content-center btnAgregar btn">
-                                        <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                        <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                         <FormattedMessage
                                             id='BodyCardSlider1.btn'
                                             defaultMessage=" Añadir a la carreta"
@@ -134,7 +134,7 @@ export const BodyCardSlider3 = () => {
                                     <p className="desc_text">-10%</p>
                                 </div>
                             </div>
-                            <div className="slider-card-image"><img src="src\assets\img\cardSlider2\Chile+de+árbol.png" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="\assets\img\cardSlider2\Chile+de+árbol.png" className="img-fluid" /></div>
 
                             <div className="d-flex align-items-center body_card">
                                 <span>
@@ -142,7 +142,7 @@ export const BodyCardSlider3 = () => {
                                     <p className="slider-card-title">Miel con Chile Jalapeño</p>
                                     <p className="slider-card-description">Envase de vidrio 300g - Sabor fresco con un toque de acidez y picante.</p>
                                     <div className="d-flex justify-content-center btnAgregar btn">
-                                        <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                        <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                         <FormattedMessage
                                             id='BodyCardSlider1.btn'
                                             defaultMessage=" Añadir a la carreta"
@@ -156,7 +156,7 @@ export const BodyCardSlider3 = () => {
                     </div>
                     <div className="d-flex justify-content-center align-items-center">
                         <div className="slider-card">
-                            <div className="slider-card-image"><img src="src/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
+                            <div className="slider-card-image"><img src="/assets/img/cardSlider/miel_2_2.jpg" className="img-fluid" /></div>
                             <div className=" align-items-center body_card">
                                 <span>
                                     <h2 className='slider_card_price d-flex'>₡2500</h2>
@@ -168,7 +168,7 @@ export const BodyCardSlider3 = () => {
                                 </span>
                                 <span>
                                     <div className="d-flex justify-content-center btnAgregar btn mr-100 ml-100 btn_fix">
-                                        <img src="src\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
+                                        <img src="\assets\img\cardSlider\carreta_480x480.png" className="img-fluid" />
                                         <FormattedMessage
                                             id='BodyCardSlider1.btn'
                                             defaultMessage=" Añadir a la carreta"
